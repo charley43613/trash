@@ -8,7 +8,7 @@ public class Sometrashbootproject1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Sometrashbootproject1Application.class, args);
-System.out.println("hey look a change");
+
 	}
 
 }
